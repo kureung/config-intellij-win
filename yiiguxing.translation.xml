@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="delivery" />
       <item value="hello" />
       <item value="안녕" />
       <item value="if" />
@@ -14,7 +15,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="10" />
+        <entry key="ENGLISH" value="11" />
         <entry key="KOREAN" value="11" />
       </map>
     </option>
